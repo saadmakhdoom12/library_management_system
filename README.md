@@ -20,5 +20,5 @@ A comprehensive C++ console application for managing library operations, book in
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone git@github.com:saadmakhdoom12/library_management_system.git
 cd library-management-system
